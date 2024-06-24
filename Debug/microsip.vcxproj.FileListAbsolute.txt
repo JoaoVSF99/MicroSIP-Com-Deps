@@ -1,0 +1,2 @@
+D:\Nova pasta\prpjeto microsip\zips\build\MicroSIP-3.21.3-src\MicroSIP-3.21.3-src\Debug\microsip.exe
+C:\Nova pasta\prpjeto microsip\zips\buildando\build\MicroSIP-3.21.3-src\MicroSIP-3.21.3-src\Debug\microsip.exe
